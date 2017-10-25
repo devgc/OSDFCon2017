@@ -4,7 +4,7 @@ OSDFCon 2017 Resources
 ## Tools Used
 | Artifact | Tool | Output Type | Link |
 | --- | --- | --- | --- |
-| | AragnoDB | | https://www.arangodb.com/ |
+| | ArangoDB | | https://www.arangodb.com/ |
 | Shellbags | ShellBagsExplorer | CSV Output | https://ericzimmerman.github.io/ |
 | Link Files | GcLinkParser* | JSON Output | https://github.com/devgc/GcLinkParser |
 | Event Logs | events2jsonl | JSONL Output | https://github.com/devgc/events2jsonl |
